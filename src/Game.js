@@ -15,8 +15,7 @@ class Game extends React.Component {
     
         mouseClicked() {
                 const clicks = this.props.clicks + 1;
-                this.props.setClicks(clicks);
-           
+                this.props.setClicks(clicks); 
         }
 
     render() {
