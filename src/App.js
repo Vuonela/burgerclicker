@@ -114,4 +114,4 @@ export default Clicker;
 
 
 
-// Tehnyt/Made by Jesse Pohjalainen, tekemässä Ohjelmointikurssia/Going through a programming course.
+// Tehnyt/Made by Jesari, tekemässä Ohjelmointikurssia/Going through a programming course.
